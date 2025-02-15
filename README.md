@@ -58,12 +58,11 @@ CarManagementService - is a RESTful web service built with Spring Boot, designed
 ## 📂 Project Structure
 
 - **config/**: Contains configuration classes, such as beans, CORS settings, or application profiles.  
-- **controller/**: Handles HTTP requests and returns responses.   
+- **rest/**: Handles HTTP requests and returns responses.   
 - **entity/**: Defines entities mapped to database tables.  
 - **repository/**: Provides database access methods.
 - **security/**: Contains security configuration, filters, and authentication-related logic.  
-- **service/**: Contains business logic and service layer code.
-- **validation/**: Custom validators for ensuring data integrity and request validation.  
+- **service/**: Contains business logic and service layer code.  
 - **resources/**: Stores configuration files, templates, and migration scripts.
 - **test/**: Contains test classes for unit and integration testing.  
 - **docker-compose.yml**: Sets up the application and database containers.  
