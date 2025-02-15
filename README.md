@@ -41,8 +41,8 @@ CarManagementService - is a RESTful web service built with Spring Boot, designed
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/VladislavSaliuk/CourseLink.git
-   cd CourseLink
+   git clone https://github.com/VladislavSaliuk/CarManagementService.git
+   cd CarManagementService
 2. Run the application:
    ```bash
    ./mvnw spring-boot:run
